@@ -51,6 +51,8 @@
 
 ---
 
+### ⚡️ Quick Links
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
