@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/Sakujes/Sakujes/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ### 👋 Hey, I'm ~hykajak - aka [Sakuješ][UzlWeb]
 
 [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline&label=sakujes.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Fsakujes.github.io)](https://sakujes.github.io)
@@ -70,8 +72,9 @@
   <summary>:zap: Latest Telegram Posts</summary>
 
   <!-- FEED-TELEGRAM:START -->
-- [{25.9.2020 12:06}  ^tru](https://t.me/Sakujes/5)
-- [{18.4.2021 18:04}  You can now use @SakujesBot to contact me privately.](https://t.me/Sakujes/8)
+- [{25.9.2020 12:06}  ^tru](https://t.me/s/Sakujes/5)
+- [{18.4.2021 18:04}  You can now use @SakujesBot to contact me privately.](https://t.me/s/Sakujes/8)
+- [{18.4.2021 18:32}  GitHub Sakujes/README.md has been reworked and finished to work with the latest changes and features.](https://t.me/s/Sakujes/10)
 <!-- FEED-TELEGRAM:END -->
 
 ➡️ [more telegram posts...][TgFeed]
