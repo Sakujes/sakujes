@@ -28,9 +28,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />][GitHub]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][Ruby]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
@@ -97,11 +99,13 @@
 [TgBot]: https://t.me/SakujesBot
 [UzlMail]: mailto://hykajak@student.uzlabina.cz
 <!-- [ProtonMail]: -->
+[GitHub]: https://github.com
 [VSCode]: https://code.visualstudio.com
+[Terminal]: https://github.com/topics/terminal/
+[Python]: https://www.python.org
+[Ruby]: https://www.ruby-lang.org
 [HTML5]: https://html.com/html5/
 [CSS3]: https://html.com/css/
 [JS]: https://www.javascript.com
-[ReactJS]: https://reactjs.org
 [NodeJS]: https://nodejs.org
-[GitHub]: https://github.com
-[Terminal]: https://github.com/topics/terminal
+[ReactJS]: https://reactjs.org
