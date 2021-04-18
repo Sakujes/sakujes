@@ -69,20 +69,29 @@
 <details>
   <summary>:zap: Latest Telegram Posts</summary>
 
-  <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+  <!-- FEED-TELEGRAM:START -->
+- [{25.9.2020 12:06}  ^tru](https://t.me/Sakujes/5)
+- [{18.4.2021 18:04}  You can now use @SakujesBot to contact me privately.](https://t.me/Sakujes/8)
+<!-- FEED-TELEGRAM:END -->
 
 ➡️ [more telegram posts...][TgFeed]
 
 </details>
 
+<details>
+  <summary>:zap: Latest Website Updates</summary>
+
+  <!-- FEED-WEBSITE:START -->
+- [Website Launched!!](https://sakujes.github.io/welcome/)
+<!-- FEED-WEBSITE:END -->
+
+➡️ [more website updates...][WebFeed]
+
+</details>
+
 [UzlWeb]: http://lab.uzlabina.cz/~hykajak/
 [GitWeb]: https://sakujes.github.io
+[WebFeed]: https://sakujes.github.io/changelog/
 [School]: https://uzlabina.cz
 [TgFeed]: https://t.me/Sakujes
 [TgBot]: https://t.me/SakujesBot
