@@ -2,6 +2,7 @@
 
 [![GitWeb](https://img.shields.io/website?down_color=FC0000&down_message=Offline&label=sakujes.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Fsakujes.github.io)](https://sakujes.github.io)
 [![GitHub Follow](https://img.shields.io/github/followers/Sakujes?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF&style=for-the-badge)](https://github.com/Sakujes?tab=followers)
+[![Telegram Channel](https://img.shields.io/badge/Sakuje%C5%A1%20%C5%A0peky-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Sakujes)
 
 ## I'm a Student at [SPŠE V Úžlabině][school]
 
