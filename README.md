@@ -9,7 +9,7 @@
 - 📈 I’m currently learning IT @uzlabina
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - ☠️ Don't google: Lego piece 26047
-- ⚡ Fun fact: This is completely useless
+- 💡 Fun fact: This is completely useless
 
 <!-- ### Spotify Playing 🎧 -->
 
@@ -44,21 +44,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
+### 🏆 GitHub Statistics
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -86,9 +72,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Latest Telegram Posts</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sakuješ GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Sakujes&show_icons=true&hide_border=true" />
 
 </details>
 
