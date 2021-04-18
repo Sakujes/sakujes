@@ -1,6 +1,6 @@
-### Hi there, I'm ~hykajak - aka [Sakuješ][schoolweb] 👋
+### Hi there, I'm ~hykajak - aka [Sakuješ][UzlWeb] 👋
 
-[![GitWeb](https://img.shields.io/website?down_color=FC0000&down_message=Offline&label=sakujes.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Fsakujes.github.io)](https://sakujes.github.io)
+[![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline&label=sakujes.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Fsakujes.github.io)](https://sakujes.github.io)
 [![GitHub Follow](https://img.shields.io/github/followers/Sakujes?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF&style=for-the-badge)](https://github.com/Sakujes?tab=followers)
 [![Telegram Channel](https://img.shields.io/badge/Sakuje%C5%A1%20%C5%A0peky-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Sakujes)
 
@@ -15,12 +15,12 @@
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
-### Connect with me:
+### My Social Links:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][schoolweb]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][gitweb]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegrambot]
+[<img align="left" alt="School Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][UzlWeb]
+[<img align="left" alt="GitHub Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitWeb]
+[<img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][TgFeed]
+[<img align="left" alt="Telegram Bot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][TgBot]
 
 <br />
 
@@ -96,11 +96,11 @@
 
 </details>
 
-[schoolweb]: http://lab.uzlabina.cz/~hykajak/
-[gitweb]: https://sakujes.github.io
+[UzlWeb]: http://lab.uzlabina.cz/~hykajak/
+[GitWeb]: https://sakujes.github.io
 [school]: https://uzlabina.cz
-[telegram]: https://t.me/Sakujes
-[telegrambot]: https://t.me/SakujesBot
+[TgFeed]: https://t.me/Sakujes
+[TgBot]: https://t.me/SakujesBot
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
