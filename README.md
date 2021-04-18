@@ -46,7 +46,7 @@
 
 ### 🏆 GitHub Statistics
 
-<img align="left" alt="Sakuješ GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Sakujes&show_icons=true&hide_border=true&title_color=15f82a&text_color=00af11&bg_color=30,000000,006b0a&icon_color=28ce60&include_all_commits=true&hide_title=false" />
+<img align="left" alt="Sakuješ GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Sakujes&show_icons=true&hide_title=false&title_color=15f82a&text_color=00af11&bg_color=30,000000,006b0a&icon_color=28ce60&include_all_commits=true&hide_border=true" />
 <img align="left" alt="Sakuješ GitHub Top Langs" src="https://github-readme-stats-sakujes.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=15f82a&text_color=00af11&bg_color=30,000000,006b0a&hide_border=true" />
 
 ---
@@ -77,7 +77,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more telegram posts...][TgFeed]
 
 </details>
 
