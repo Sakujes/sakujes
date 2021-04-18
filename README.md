@@ -1,10 +1,10 @@
-### Hi there, I'm ~hykajak - aka [Sakuješ][UzlWeb] 👋
+### 👋 Hey, I'm ~hykajak - aka [Sakuješ][UzlWeb]
 
 [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline&label=sakujes.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Fsakujes.github.io)](https://sakujes.github.io)
 [![GitHub Follow](https://img.shields.io/github/followers/Sakujes?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF&style=for-the-badge)](https://github.com/Sakujes?tab=followers)
 [![Telegram Channel](https://img.shields.io/badge/Sakuje%C5%A1%20%C5%A0peky-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Sakujes)
 
-## I'm a Student at [SPŠE V Úžlabině][School]
+## ℹ️ I'm a Student at [SPŠE V Úžlabině][School]
 
 - 📈 I’m currently learning IT @uzlabina
 - 🎯 2021 Goals: Contribute more to Open Source projects
@@ -15,7 +15,7 @@
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
-### My Social Links:
+### 🌐 My Social Links:
 
 [<img align="left" alt="School Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][UzlWeb]
 [<img align="left" alt="GitHub Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitWeb]
@@ -26,7 +26,7 @@
 
 <br />
 
-### Languages and Tools:
+### 💻 Tools & Languages:
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />][GitHub]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
