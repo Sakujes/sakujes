@@ -1,7 +1,7 @@
 ### Hi there, I'm ~hykajak - aka [Sakuješ][schoolweb] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sakujes.github.io) <!-- gitweb -->
-[![GitHub Follow](https://img.shields.io/github/followers/Sakujes?color=199900&label=GitHub%20Followers&logo=github&logoColor=199900&style=for-the-badge)](https://github.com/Sakujes?tab=followers)
+[![GitWeb](https://img.shields.io/website?down_color=FC0000&down_message=Offline&label=sakujes.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Fsakujes.github.io)](https://sakujes.github.io)
+[![GitHub Follow](https://img.shields.io/github/followers/Sakujes?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF&style=for-the-badge)](https://github.com/Sakujes?tab=followers)
 
 ## I'm a Student at [SPŠE V Úžlabině][school]
 
