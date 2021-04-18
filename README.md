@@ -46,8 +46,8 @@
 
 ### 🏆 GitHub Statistics
 
-<img align="left" alt="Sakuješ GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Sakujes&show_icons=true&hide_border=true&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_title=true" />
-<img align="left" alt="Sakuješ GitHub Top Langs" src="https://github-readme-stats-sakujes.vercel.app/api/top-langs/?username=Sakujes&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true" />
+<img align="left" alt="Sakuješ GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Sakujes&show_icons=true&hide_border=true&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_title=false" />
+<img align="left" alt="Sakuješ GitHub Top Langs" src="https://github-readme-stats-sakujes.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true" />
 
 ---
 
