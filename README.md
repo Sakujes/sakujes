@@ -21,6 +21,7 @@
 
 [<img align="left" alt="School Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][UzlWeb]
 [<img align="left" alt="GitHub Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitWeb]
+[<img align="left" alt="GitHub Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][GitLab]
 [<img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][TgFeed]
 [<img align="left" alt="Telegram Bot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][TgBot]
 [<img align="left" alt="School Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][UzlMail]
@@ -96,6 +97,7 @@
 [GitWeb]: https://sakujes.github.io
 [WebFeed]: https://sakujes.github.io/changelog/
 [School]: https://uzlabina.cz
+[GitLab]: https://gitlab.com/Sakujes
 [TgFeed]: https://t.me/Sakujes
 [TgBot]: https://t.me/SakujesBot
 [UzlMail]: mailto://hykajak@student.uzlabina.cz
