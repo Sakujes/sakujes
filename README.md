@@ -60,9 +60,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/ImageGlass/theme/issues/8) in [ImageGlass/theme](https://github.com/ImageGlass/theme)
-2. ❗️ Opened issue [#1466](https://github.com/telegraf/telegraf/issues/1466) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
+2. ❗️ Opened issue [#8](https://github.com/ImageGlass/theme/issues/8) in [ImageGlass/theme](https://github.com/ImageGlass/theme)
+3. ❗️ Opened issue [#1466](https://github.com/telegraf/telegraf/issues/1466) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
