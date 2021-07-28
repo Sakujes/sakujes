@@ -62,9 +62,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
 2. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
-3. ❗️ Opened issue [#8](https://github.com/ImageGlass/theme/issues/8) in [ImageGlass/theme](https://github.com/ImageGlass/theme)
-4. ❗️ Opened issue [#1466](https://github.com/telegraf/telegraf/issues/1466) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
+4. ❗️ Opened issue [#8](https://github.com/ImageGlass/theme/issues/8) in [ImageGlass/theme](https://github.com/ImageGlass/theme)
+5. ❗️ Opened issue [#1466](https://github.com/telegraf/telegraf/issues/1466) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
 <!--END_SECTION:activity-->
 
 </details>
