@@ -60,11 +60,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
+1. ❗️ Opened issue [#254](https://github.com/procxx/kepka/issues/254) in [procxx/kepka](https://github.com/procxx/kepka)
 2. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
 3. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
-4. ❗️ Opened issue [#8](https://github.com/ImageGlass/theme/issues/8) in [ImageGlass/theme](https://github.com/ImageGlass/theme)
-5. ❗️ Opened issue [#1466](https://github.com/telegraf/telegraf/issues/1466) in [telegraf/telegraf](https://github.com/telegraf/telegraf)
+4. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
+5. ❗️ Opened issue [#8](https://github.com/ImageGlass/theme/issues/8) in [ImageGlass/theme](https://github.com/ImageGlass/theme)
 <!--END_SECTION:activity-->
 
 </details>
