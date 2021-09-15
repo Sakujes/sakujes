@@ -60,11 +60,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#55](https://github.com/Forkgram/TelegramAndroid/issues/55) in [Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
-2. ❗️ Opened issue [#54](https://github.com/Forkgram/tdesktop/issues/54) in [Forkgram/tdesktop](https://github.com/Forkgram/tdesktop)
-3. ❗️ Opened issue [#254](https://github.com/procxx/kepka/issues/254) in [procxx/kepka](https://github.com/procxx/kepka)
-4. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
-5. 🗣 Commented on [#312](https://github.com/tdlib/td/issues/312) in [tdlib/td](https://github.com/tdlib/td)
+1. ❗️ Closed issue [#54](https://github.com/Forkgram/tdesktop/issues/54) in [Forkgram/tdesktop](https://github.com/Forkgram/tdesktop)
+2. ❗️ Closed issue [#55](https://github.com/Forkgram/TelegramAndroid/issues/55) in [Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
+3. 🗣 Commented on [#55](https://github.com/Forkgram/TelegramAndroid/issues/55) in [Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
+4. ❗️ Opened issue [#55](https://github.com/Forkgram/TelegramAndroid/issues/55) in [Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
+5. ❗️ Opened issue [#54](https://github.com/Forkgram/tdesktop/issues/54) in [Forkgram/tdesktop](https://github.com/Forkgram/tdesktop)
 <!--END_SECTION:activity-->
 
 </details>
